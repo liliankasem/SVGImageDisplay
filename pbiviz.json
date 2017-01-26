@@ -1,0 +1,24 @@
+{
+  "visual": {
+    "name": "sVGImageDisplay",
+    "displayName": "SVG Image Display",
+    "guid": "PBI_CV_E1B40415_2C5D_465F_8148_5B943CA1D176",
+    "visualClassName": "Visual",
+    "version": "1.0.0",
+    "description": "",
+    "supportUrl": "",
+    "gitHubUrl": ""
+  },
+  "apiVersion": "1.4.0",
+  "author": {
+    "name": "",
+    "email": ""
+  },
+  "assets": {
+    "icon": "assets/icon.png"
+  },
+  "externalJS": [],
+  "style": "style/visual.less",
+  "capabilities": "capabilities.json",
+  "dependencies": "dependencies.json"
+}
